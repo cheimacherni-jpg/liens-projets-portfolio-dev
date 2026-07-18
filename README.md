@@ -13,7 +13,8 @@ reproduction exat du template fourni
 ## 📚 BonPied
 * [BonPied](https://github.com/la-toile-emlyon/rendu-js-semaine-3-cheimacherni-jpg.git) - Ma première landing page en utilisant du javascript avec json 
 
-****projet perso
+
 
 ## 🚀 Escape Game DOORS !
 * [Escape Game](https://github.com/cheimacherni-jpg/projet-escape-game-cheima.git) - Ma première landing page en tant que projet perso avec du json, projet hors cadre scolaire. 
+****projet perso
